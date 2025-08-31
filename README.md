@@ -2,7 +2,7 @@
 A new discord theme to take over the Flashcord legacy based on Discord+
 
 ## Versions
-There is the iconic Green version and the Blue Ocean version
+There is the iconic Green version, the Blue Ocean version and the Red Blood version
 
 ## This is Grasscord Green or Grasscord Green Thumb u decide what u want to call it, but in the code its version is Grasscord gThumb.
 In this theme Thumb means Beta and Monarch means Dev
